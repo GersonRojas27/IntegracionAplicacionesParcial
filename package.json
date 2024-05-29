@@ -1,0 +1,21 @@
+{
+  "name": "parcial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "gerson rojas",
+    "email": "gersonrojas@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jest": "^29.7.0",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.1"
+  }
+}
